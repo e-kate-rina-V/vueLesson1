@@ -12,7 +12,7 @@ export default {
   name: 'EventHandler',
   data() {
     return {
-      counter: 'Hello, World!',
+      counter: 'Hello!',
       textColor: 'black' 
     };
   },
