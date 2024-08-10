@@ -27,8 +27,3 @@ export default {
 }
 </script>
 
-<style scoped>
-.textlabel {
-    margin-left: 5%;
-}
-</style>
